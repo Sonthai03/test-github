@@ -38,6 +38,7 @@ int main()
 {
 	taofile();
 	docfile();
+	cout << "xin chao";
 	
 	return 0;
 }
